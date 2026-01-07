@@ -30,9 +30,9 @@ WalletHaven is a comprehensive personal finance management application built wit
 |------------|--------------|-------|----------|
 | <img src="./screenshots/HomeTabOpenFloatingButton.png" width="200"> | <img src="./screenshots/ValidateTransactionsSheet.png" width="200"> | <img src="./screenshots/GoalsTab.png" width="200"> | <img src="./screenshots/SettingsTab.png" width="200"> |
 
-| AI Receipt Scan | Category View | Transaction Detail | Welcome Screen |
-|----------------|---------------|-------------------|----------------|
-| <img src="./screenshots/OCRAI-EditInvoiceSheet.png" width="200"> | <img src="./screenshots/CategorySelectorSheet.png" width="200"> | <img src="./screenshots/TransactionDetailSheet.png" width="200"> | <img src="./screenshots/WelcomeScreen.png" width="200"> |
+| AI Receipt Scan | Validate Transactions | Category View | Wallet Selector |
+|----------------|----------------------|---------------|-----------------|
+| <img src="./screenshots/OCRAI-EditInvoiceSheet.png" width="200"> | <img src="./screenshots/ValidateTransactionsSheet.png" width="200"> | <img src="./screenshots/CategorySelectorSheet.png" width="200"> | <img src="./screenshots/WalletSelectorSheet.png" width="200"> |
 
 
 ## Project Structure
