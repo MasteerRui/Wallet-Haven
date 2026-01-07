@@ -1,0 +1,158 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Build outputs
+build/
+dist/
+*.log
+*.tgz
+
+# React Native
+# Metro bundler cache
+.metro/
+.metro-health-check*
+
+# iOS
+ios/Pods/
+ios/build/
+ios/*.xcworkspace/xcuserdata/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcworkspace/contents.xcworkspacedata
+ios/Podfile.lock
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace/
+ios/.xcode.env.local
+
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+android/app/debug.keystore
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+.gradle/
+local.properties
+*.iml
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+.jest/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+.cache/
+.temp/
+
+# Uploads (se contiver dados sensíveis)
+uploads/*
+!uploads/.gitkeep
+
+# Ruby (para React Native iOS)
+vendor/bundle/
+vendor/cache/
+.bundle/
+Gemfile.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Misc
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+*.mobileprovision
+*.orig
+
