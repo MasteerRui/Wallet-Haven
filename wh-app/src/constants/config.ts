@@ -1,8 +1,21 @@
 
+/**
+ * API Configuration
+ * 
+ * IMPORTANT: Replace the BASE_URL with your actual API endpoint.
+ * 
+ * For local development:
+ * - Use 'http://localhost:3000/api' if running on the same machine
+ * - Use your local IP (e.g., 'http://192.168.x.x:3000/api') only temporarily for testing
+ * 
+ * For production:
+ * - Replace with your production API URL (e.g., 'https://api.yourdomain.com/api')
+ * - Consider using environment variables or a config service for different environments
+ */
 export const API_CONFIG = {
-  
-  BASE_URL: 'http://192.168.1.126:3000/api',
-
+  // TODO: Replace with your production API URL
+  // For local development, use: 'http://localhost:3000/api'
+  BASE_URL: 'http://localhost:3000/api',
 };
 
 export const API_ENDPOINTS = {
