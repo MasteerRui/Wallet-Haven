@@ -28,11 +28,11 @@ WalletHaven is a comprehensive personal finance management application built wit
 
 | Main Screen | Transactions | Goals | Settings |
 |------------|--------------|-------|----------|
-| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+| <img src="./screenshots/HomeTabScrollDown.png" width="200"> | <img src="./screenshots/TransactionsTab.png" width="200"> | <img src="./screenshots/GoalsTab.png" width="200"> | <img src="./screenshots/SettingsTab.png" width="200"> |
 
-| Wallet Management | AI Receipt Scan | Category View | Dashboard |
-|------------------|----------------|---------------|----------|
-| Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
+| Wallet Management | AI Receipt Scan | Category View | Transaction Detail |
+|------------------|----------------|---------------|-------------------|
+| <img src="./screenshots/WalletSelectorSheet.png" width="200"> | <img src="./screenshots/ScannerSheet.png" width="200"> | <img src="./screenshots/CategorySelectorSheet.png" width="200"> | <img src="./screenshots/TransactionDetailSheet.png" width="200"> |
 
 *For more screenshots, check the [screenshots folder](./screenshots/README.md)*
 
