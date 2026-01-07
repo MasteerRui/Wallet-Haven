@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./screenshots/banner.png" alt="WalletHaven Banner" width="100%">
+</div>
+
 # WalletHaven
 
 WalletHaven is a comprehensive personal finance management application built with React Native and Node.js. It provides users with an intuitive and powerful way to track expenses, manage multiple wallets, set financial goals, and even use AI-powered receipt scanning to automatically categorize transactions. Whether you're a developer looking for a reference project or someone seeking better financial control, WalletHaven offers a complete solution.
