@@ -20,7 +20,17 @@ WalletHaven is a comprehensive personal finance management application built wit
 
 **Recurring Transactions**: Set up recurring transactions for subscriptions, bills, and regular income.
 
-**Dashboard & Analytics**: Real-time financial overview with charts and statistics to help you understand your spending patterns.
+## Screenshots
+
+| Main Screen | Transactions | Goals | Settings |
+|------------|--------------|-------|----------|
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+
+| Wallet Management | AI Receipt Scan | Category View | Dashboard |
+|------------------|----------------|---------------|----------|
+| Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
+
+*For more screenshots, check the [screenshots folder](./screenshots/README.md)*
 
 ## Project Structure
 
@@ -118,18 +128,6 @@ This repository contains two main components:
    - Create a new Supabase project
    - Set up the required database tables (users, wallets, transactions, categories, goals, etc.)
    - Configure authentication providers (Email, Google OAuth)
-
-## Screenshots
-
-| Main Screen | Transactions | Goals | Settings |
-|------------|--------------|-------|----------|
-| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
-
-| Wallet Management | AI Receipt Scan | Category View | Dashboard |
-|------------------|----------------|---------------|----------|
-| Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
-
-*For more screenshots, check the [screenshots folder](./screenshots/README.md)*
 
 ## Technology Stack
 
