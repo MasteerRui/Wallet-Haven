@@ -34,7 +34,6 @@ WalletHaven is a comprehensive personal finance management application built wit
 |----------------|---------------|-------------------|----------------|
 | <img src="./screenshots/OCRAI-EditInvoiceSheet.png" width="200"> | <img src="./screenshots/CategorySelectorSheet.png" width="200"> | <img src="./screenshots/TransactionDetailSheet.png" width="200"> | <img src="./screenshots/WelcomeScreen.png" width="200"> |
 
-*For more screenshots, check the [screenshots folder](./screenshots/README.md)*
 
 ## Project Structure
 
